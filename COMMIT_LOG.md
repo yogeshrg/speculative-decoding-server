@@ -325,3 +325,4 @@
 ## 2020-03-01 12:53:03 - feat(worker): add worker support (18/20)
 ## 2020-03-28 16:10:14 - feat(ui): implement ui feature (5/20)
 ## 2020-03-28 17:32:48 - feat(db): add db support (14/20)
+## 2020-04-15 21:02:33 - feat(db): create db handler
