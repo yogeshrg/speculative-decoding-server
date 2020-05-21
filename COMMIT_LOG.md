@@ -327,3 +327,4 @@
 ## 2020-03-28 17:32:48 - feat(db): add db support (14/20)
 ## 2020-04-15 21:02:33 - feat(db): create db handler
 ## 2020-04-19 14:28:53 - feat(deploy): implement deploy module (7/20)
+## 2020-05-21 10:24:28 - feat(test): create test handler
