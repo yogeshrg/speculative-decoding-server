@@ -168,3 +168,4 @@
 ## 2020-04-19 14:28:53 - feat(deploy): implement deploy module (7/20)
 ## 2020-05-21 10:24:28 - feat(test): create test handler
 ## 2020-05-31 13:20:37 - feat(model): create model handler (3/20)
+## 2020-06-03 23:23:10 - feat(deploy): create deploy handler
