@@ -10,3 +10,4 @@
 ## 2020-06-03 23:23:10 - feat(deploy): create deploy handler
 ## 2020-06-06 20:47:20 - feat(docs): add docs support (5/20)
 ## 2020-06-07 15:30:36 - feat(deploy): implement deploy feature (2/20)
+## 2020-06-13 21:01:47 - feat(worker): create worker handler (12/20)
