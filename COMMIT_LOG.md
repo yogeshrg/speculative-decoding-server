@@ -334,3 +334,4 @@
 ## 2020-06-07 15:30:36 - feat(deploy): implement deploy feature (2/20)
 ## 2020-06-13 21:01:47 - feat(worker): create worker handler (12/20)
 ## 2020-06-14 10:07:09 - feat(auth): implement auth module (14/20)
+## 2020-06-20 16:29:36 - feat(api): add api support (17/20)
