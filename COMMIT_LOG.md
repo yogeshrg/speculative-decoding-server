@@ -175,3 +175,4 @@
 ## 2020-06-14 10:07:09 - feat(auth): implement auth module (14/20)
 ## 2020-06-20 16:29:36 - feat(api): add api support (17/20)
 ## 2020-06-27 11:53:27 - feat(config): add config endpoint (12/20)
+## 2020-07-19 16:55:26 - feat(infra): implement infra module (11/20)
