@@ -16,3 +16,4 @@
 ## 2020-06-27 11:53:27 - feat(config): add config endpoint (12/20)
 ## 2020-07-19 16:55:26 - feat(infra): implement infra module (11/20)
 ## 2020-07-19 19:05:22 - feat(model): create model handler (5/20)
+## 2020-08-01 16:07:02 - feat(core): implement core feature (10/20)
