@@ -180,3 +180,4 @@
 ## 2020-08-01 16:07:02 - feat(core): implement core feature (10/20)
 ## 2020-08-01 19:34:57 - feat(model): implement model feature (16/20)
 ## 2020-08-14 11:01:20 - feat(metric): add metric endpoint
+## 2020-08-15 09:10:07 - feat(build): add build endpoint (11/20)
