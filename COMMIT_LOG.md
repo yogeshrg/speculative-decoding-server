@@ -343,3 +343,4 @@
 ## 2020-08-14 11:01:20 - feat(metric): add metric endpoint
 ## 2020-08-15 09:10:07 - feat(build): add build endpoint (11/20)
 ## 2020-08-15 14:06:22 - feat(deploy): implement deploy module (20/20)
+## 2020-08-23 14:04:57 - feat(api): implement api module (4/20)
