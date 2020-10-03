@@ -24,3 +24,4 @@
 ## 2020-08-23 14:04:57 - feat(api): implement api module (4/20)
 ## 2020-09-12 14:50:34 - feat(data): add data endpoint (8/20)
 ## 2020-09-12 23:14:42 - feat(queue): implement queue module (16/20)
+## 2020-10-03 18:04:09 - feat(log): create log handler (18/20)
