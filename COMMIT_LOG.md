@@ -187,3 +187,4 @@
 ## 2020-09-12 23:14:42 - feat(queue): implement queue module (16/20)
 ## 2020-10-03 18:04:09 - feat(log): create log handler (18/20)
 ## 2020-10-18 18:32:14 - feat(test): add test endpoint (12/20)
+## 2020-11-07 17:19:58 - feat(monitor): add monitor endpoint (2/20)
