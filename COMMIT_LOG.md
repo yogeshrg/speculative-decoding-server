@@ -28,3 +28,4 @@
 ## 2020-10-18 18:32:14 - feat(test): add test endpoint (12/20)
 ## 2020-11-07 17:19:58 - feat(monitor): add monitor endpoint (2/20)
 ## 2020-11-15 19:49:36 - feat(deploy): add deploy support (20/20)
+## 2020-11-15 21:45:08 - feat(docs): implement docs feature (3/20)
