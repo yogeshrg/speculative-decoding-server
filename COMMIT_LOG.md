@@ -192,3 +192,4 @@
 ## 2020-11-15 21:45:08 - feat(docs): implement docs feature (3/20)
 ## 2021-01-09 09:00:10 - feat(build): add build support (16/20)
 ## 2021-01-09 11:26:33 - feat(api): create api handler (5/20)
+## 2021-02-13 14:10:07 - feat(api): implement api module (1/20)
