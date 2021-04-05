@@ -195,3 +195,4 @@
 ## 2021-02-13 14:10:07 - feat(api): implement api module (1/20)
 ## 2021-02-13 21:02:01 - feat(db): implement db module (11/20)
 ## 2021-04-03 13:57:26 - feat(model): implement model module (5/20)
+## 2021-04-05 23:00:05 - feat(cache): add cache support
