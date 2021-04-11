@@ -359,3 +359,4 @@
 ## 2021-04-05 23:00:05 - feat(cache): add cache support
 ## 2021-04-06 12:26:38 - feat(core): implement core feature
 ## 2021-04-10 20:59:36 - feat(ui): implement ui module (15/20)
+## 2021-04-11 10:30:42 - feat(docs): implement docs module (1/20)
