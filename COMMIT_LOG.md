@@ -42,3 +42,4 @@
 ## 2021-05-08 17:06:09 - feat(log): implement log feature (14/20)
 ## 2021-06-13 20:46:12 - feat(worker): add worker endpoint (5/20)
 ## 2021-06-26 14:06:15 - feat(worker): add worker endpoint (15/20)
+## 2021-08-22 19:00:19 - feat(deploy): create deploy handler (15/20)
