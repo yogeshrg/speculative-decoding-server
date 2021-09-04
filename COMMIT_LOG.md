@@ -44,3 +44,4 @@
 ## 2021-06-26 14:06:15 - feat(worker): add worker endpoint (15/20)
 ## 2021-08-22 19:00:19 - feat(deploy): create deploy handler (15/20)
 ## 2021-08-29 23:07:04 - feat(deploy): implement deploy module (17/20)
+## 2021-09-04 19:17:12 - feat(model): add model endpoint (13/20)
