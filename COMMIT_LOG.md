@@ -367,3 +367,4 @@
 ## 2021-08-22 19:00:19 - feat(deploy): create deploy handler (15/20)
 ## 2021-08-29 23:07:04 - feat(deploy): implement deploy module (17/20)
 ## 2021-09-04 19:17:12 - feat(model): add model endpoint (13/20)
+## 2021-09-21 14:26:12 - feat(ui): add ui support
