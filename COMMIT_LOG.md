@@ -47,3 +47,4 @@
 ## 2021-09-04 19:17:12 - feat(model): add model endpoint (13/20)
 ## 2021-09-21 14:26:12 - feat(ui): add ui support
 ## 2021-10-23 20:04:44 - feat(metric): create metric handler (12/20)
+## 2021-10-30 17:05:07 - feat(infra): add infra endpoint (20/20)
