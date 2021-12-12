@@ -211,3 +211,4 @@
 ## 2021-10-30 17:05:07 - feat(infra): add infra endpoint (20/20)
 ## 2021-11-06 12:28:51 - feat(docs): add docs endpoint (5/20)
 ## 2021-11-28 18:26:39 - feat(metric): add metric support (12/20)
+## 2021-12-12 19:09:13 - feat(db): add db support (19/20)
