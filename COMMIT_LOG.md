@@ -374,3 +374,4 @@
 ## 2021-11-28 18:26:39 - feat(metric): add metric support (12/20)
 ## 2021-12-12 19:09:13 - feat(db): add db support (19/20)
 ## 2021-12-18 11:32:33 - feat(core): add core endpoint (3/20)
+## 2021-12-18 20:42:32 - feat(ui): implement ui feature (4/20)
