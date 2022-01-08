@@ -56,3 +56,4 @@
 ## 2021-12-18 23:08:24 - feat(deploy): implement deploy feature (8/20)
 ## 2021-12-19 21:07:33 - feat(log): add log endpoint (17/20)
 ## 2022-01-01 13:42:12 - feat(deploy): implement deploy feature (3/20)
+## 2022-01-08 12:41:32 - feat(model): add model support (2/20)
