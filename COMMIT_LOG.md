@@ -381,3 +381,4 @@
 ## 2022-01-08 12:41:32 - feat(model): add model support (2/20)
 ## 2022-01-29 11:02:59 - feat(api): add api support (9/20)
 ## 2022-02-04 12:23:43 - feat(ui): add ui endpoint
+## 2022-03-06 16:44:23 - feat(ui): implement ui feature (10/20)
