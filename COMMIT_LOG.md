@@ -228,3 +228,4 @@
 ## 2022-07-31 13:02:57 - feat(test): add test endpoint (2/20)
 ## 2022-10-08 10:48:19 - feat(data): add data endpoint (20/20)
 ## 2022-10-09 15:16:24 - feat(metric): create metric handler (6/20)
+## 2022-10-26 23:51:30 - feat(cache): add cache endpoint
