@@ -390,3 +390,4 @@
 ## 2022-10-08 10:48:19 - feat(data): add data endpoint (20/20)
 ## 2022-10-09 15:16:24 - feat(metric): create metric handler (6/20)
 ## 2022-10-26 23:51:30 - feat(cache): add cache endpoint
+## 2022-10-29 19:24:12 - feat(test): add test support (2/20)
