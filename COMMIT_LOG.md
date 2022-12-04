@@ -70,3 +70,4 @@
 ## 2022-10-26 23:51:30 - feat(cache): add cache endpoint
 ## 2022-10-29 19:24:12 - feat(test): add test support (2/20)
 ## 2022-11-12 11:06:26 - feat(test): add test support (7/20)
+## 2022-12-04 10:44:50 - feat(log): create log handler (17/20)
