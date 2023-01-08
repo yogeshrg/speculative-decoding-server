@@ -72,3 +72,4 @@
 ## 2022-11-12 11:06:26 - feat(test): add test support (7/20)
 ## 2022-12-04 10:44:50 - feat(log): create log handler (17/20)
 ## 2023-01-07 13:43:20 - feat(deploy): implement deploy module (1/20)
+## 2023-01-08 13:15:54 - feat(cache): create cache handler (6/20)
