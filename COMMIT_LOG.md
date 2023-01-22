@@ -234,3 +234,4 @@
 ## 2022-12-04 10:44:50 - feat(log): create log handler (17/20)
 ## 2023-01-07 13:43:20 - feat(deploy): implement deploy module (1/20)
 ## 2023-01-08 13:15:54 - feat(cache): create cache handler (6/20)
+## 2023-01-22 15:03:55 - feat(build): implement build feature (1/20)
