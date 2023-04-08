@@ -237,3 +237,4 @@
 ## 2023-01-22 15:03:55 - feat(build): implement build feature (1/20)
 ## 2023-02-25 17:19:51 - feat(model): implement model feature (10/20)
 ## 2023-02-25 18:08:09 - feat(model): add model support (19/20)
+## 2023-04-08 20:27:20 - feat(monitor): add monitor endpoint (8/20)
