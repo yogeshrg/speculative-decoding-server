@@ -77,3 +77,4 @@
 ## 2023-02-25 17:19:51 - feat(model): implement model feature (10/20)
 ## 2023-02-25 18:08:09 - feat(model): add model support (19/20)
 ## 2023-04-08 20:27:20 - feat(monitor): add monitor endpoint (8/20)
+## 2023-04-09 19:04:36 - feat(monitor): create monitor handler (6/20)
