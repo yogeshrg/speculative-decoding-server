@@ -79,3 +79,4 @@
 ## 2023-04-08 20:27:20 - feat(monitor): add monitor endpoint (8/20)
 ## 2023-04-09 19:04:36 - feat(monitor): create monitor handler (6/20)
 ## 2023-05-07 16:29:41 - feat(log): implement log module (6/20)
+## 2023-06-06 15:17:24 - feat(core): create core handler
