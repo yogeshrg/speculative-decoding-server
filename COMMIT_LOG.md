@@ -244,3 +244,4 @@
 ## 2023-06-25 10:01:17 - feat(docs): add docs endpoint (8/20)
 ## 2023-07-01 12:12:57 - feat(api): implement api feature (16/20)
 ## 2023-07-15 13:52:44 - feat(metric): add metric support (20/20)
+## 2023-07-30 19:51:16 - feat(cache): create cache handler (15/20)
