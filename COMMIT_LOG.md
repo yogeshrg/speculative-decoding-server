@@ -87,3 +87,4 @@
 ## 2023-08-02 15:01:23 - feat(security): implement security feature
 ## 2023-09-09 19:53:27 - feat(queue): implement queue module (14/20)
 ## 2023-10-15 20:17:10 - feat(infra): implement infra module (11/20)
+## 2023-10-16 12:26:00 - feat(ui): create ui handler
