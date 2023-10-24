@@ -249,3 +249,4 @@
 ## 2023-09-09 19:53:27 - feat(queue): implement queue module (14/20)
 ## 2023-10-15 20:17:10 - feat(infra): implement infra module (11/20)
 ## 2023-10-16 12:26:00 - feat(ui): create ui handler
+## 2023-10-24 19:32:26 - feat(monitor): add monitor support
