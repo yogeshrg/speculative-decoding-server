@@ -91,3 +91,4 @@
 ## 2023-10-24 19:32:26 - feat(monitor): add monitor support
 ## 2023-11-05 14:59:24 - feat(ui): implement ui module (7/20)
 ## 2023-11-05 19:46:09 - feat(metric): add metric support (8/20)
+## 2023-11-11 09:38:37 - feat(api): add api support (13/20)
