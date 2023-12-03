@@ -96,3 +96,4 @@
 ## 2023-11-19 16:04:57 - feat(metric): implement metric module (20/20)
 ## 2023-11-25 09:34:59 - feat(ci): create ci handler (17/20)
 ## 2023-11-25 23:14:32 - feat(log): implement log module (3/20)
+## 2023-12-03 17:30:07 - feat(queue): add queue support (13/20)
