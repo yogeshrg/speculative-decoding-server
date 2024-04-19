@@ -100,3 +100,4 @@
 ## 2024-01-13 19:03:48 - feat(api): create api handler (17/20)
 ## 2024-01-20 16:50:08 - feat(metric): add metric endpoint (8/20)
 ## 2024-01-27 21:14:24 - feat(security): implement security module (8/20)
+## 2024-04-19 13:31:53 - feat(infra): create infra handler
