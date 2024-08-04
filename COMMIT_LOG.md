@@ -427,3 +427,4 @@
 ## 2024-05-25 19:37:36 - feat(queue): add queue endpoint (10/20)
 ## 2024-06-21 13:43:28 - feat(ui): add ui support
 ## 2024-06-22 11:33:58 - feat(core): implement core feature (8/20)
+## 2024-08-04 11:47:00 - feat(docs): add docs support (5/20)
