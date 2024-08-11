@@ -106,3 +106,4 @@
 ## 2024-06-21 13:43:28 - feat(ui): add ui support
 ## 2024-06-22 11:33:58 - feat(core): implement core feature (8/20)
 ## 2024-08-04 11:47:00 - feat(docs): add docs support (5/20)
+## 2024-08-11 10:58:45 - feat(ui): add ui support (17/20)
