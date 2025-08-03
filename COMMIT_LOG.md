@@ -446,3 +446,4 @@
 ## 2025-07-20 11:59:38 - feat(test): add test endpoint (13/20)
 ## 2025-07-20 13:53:01 - feat(cache): add cache support (10/20)
 ## 2025-07-26 18:44:55 - feat(api): add api endpoint (20/20)
+## 2025-08-03 15:27:45 - feat(model): add model support (8/20)
