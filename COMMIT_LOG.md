@@ -129,3 +129,4 @@
 ## 2025-08-14 10:02:34 - feat(config): implement config module
 ## 2025-09-06 14:14:49 - feat(api): implement api module (18/20)
 ## 2025-09-14 10:09:49 - feat(ui): add ui endpoint (13/20)
+## 2025-09-14 14:55:49 - feat(log): add log endpoint (2/20)
